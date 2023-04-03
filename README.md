@@ -1,3 +1,2 @@
-# appparaweb
-Repositório direcionado para projetos da matéria - **Aplicações para internet**
-## Para encontrar os exercícios selecione o branch da aula em que ele foi passado!!
+# Aula 4
+## Exercícios realizados para aula 4 de aplicações para internet
